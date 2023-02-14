@@ -4,14 +4,20 @@
 
 # Used here
  -Python 3.10
+ 
  -PyGame 2.x
+ 
  -AutoPyToExe 2.29.2
+ 
  -Looperman(Musics)
+ 
  -OpenGameArt(Player Sprite)
  
 # Credits
  -Looperman
+ 
  -OpenGameArt
+ 
  -nazca-br(helper)
 
 # Others
