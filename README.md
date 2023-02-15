@@ -26,4 +26,6 @@
 
 ### Download
 **Visit:**
-[PotatoStudios site(RPGTest page)](https://potatostudios.jpgamesbr.repl.co/post/13)
+- [Releases(GitHub)](https://github.com/MrJuaumBR/ReleaseRPGTest/releases)
+
+- [PotatoStudios site(RPGTest page)](https://potatostudios.jpgamesbr.repl.co/post/13)
